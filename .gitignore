@@ -92,3 +92,6 @@ logs*
 tmp*
 *.png
 data/*
+sms/*
+mails/*
+w2v/*
