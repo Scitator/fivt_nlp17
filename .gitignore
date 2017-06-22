@@ -95,3 +95,5 @@ data/*
 sms/*
 mails/*
 w2v/*
+*.tsv
+*.tar.gz
